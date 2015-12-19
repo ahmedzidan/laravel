@@ -1,0 +1,10 @@
+1) create new database name it "laeavel1" or if you will name it any name else , you will need to change this in "app/config/database.php" with new name
+2) go to folder that you put this project filesfrom command line and write this command 'php artisan migrate'
+if you use xampp
+.from command lind write 
+"cd C:\xampp\htdocs\task"
+and then write "php artisan migrate" 
+after this your database will create 
+3) go to "http://localhost/task/" from your browser and then you can start and test this small demo .
+
+// you can see sreenshot of this demo in pdf file .
